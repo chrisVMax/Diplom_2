@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Diplom_2" />
-        <module name="QA-java-diplom-2" />
       </profile>
     </annotationProcessing>
   </component>

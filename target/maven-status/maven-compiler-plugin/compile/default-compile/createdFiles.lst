@@ -1,0 +1,7 @@
+stellarburgers\api\model\User.class
+stellarburgers\api\model\UserCredentials.class
+stellarburgers\api\model\Ingredients.class
+stellarburgers\api\OrderClient.class
+stellarburgers\api\IngredientsClient.class
+stellarburgers\api\UserClient.class
+stellarburgers\api\RestClient.class

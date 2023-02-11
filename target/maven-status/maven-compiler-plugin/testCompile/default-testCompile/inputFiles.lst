@@ -1,0 +1,13 @@
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createorder\CreateOrderNoAuthAndWithIngredientsTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\loginuser\LoginRegisteredUserTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\getuserorders\GetUsersOrdersNoAuthTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createorder\CreateOrderWithAuthNoIngredientsTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\changeuserdata\ChangeUserDataWithAuthTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\getuserorders\GetUsersOrdersWithAuthTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createorder\CreateOrderWithAuthAndIngredientsTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createuser\CreateRegisteredUserTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createorder\CreateOrderWithAuthAndIncorrectIngredientIdTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\loginuser\LoginWithIncorrectLoginAndPasswordTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\changeuserdata\ChangeUserDataWithOutAuthTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createuser\CreateUserTest.java
+D:\Education\Yandex_Pract_QAQ\Projects_AQA_YP\Diplom\Diplom2\QA-java-diplom-2\src\test\java\createuser\CreateUserWithoutNameTest.java
