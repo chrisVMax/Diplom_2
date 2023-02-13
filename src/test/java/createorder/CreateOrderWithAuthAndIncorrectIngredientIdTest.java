@@ -57,5 +57,7 @@ public class CreateOrderWithAuthAndIncorrectIngredientIdTest {
        responseCreateOrder
                 .then()
                 .assertThat().statusCode(500);
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
     }
  }

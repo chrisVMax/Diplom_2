@@ -45,5 +45,7 @@ public class GetUsersOrdersWithAuthTest {
                 .extract()
                 .path("success");
         assertTrue(isOrders);
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
     }
 }

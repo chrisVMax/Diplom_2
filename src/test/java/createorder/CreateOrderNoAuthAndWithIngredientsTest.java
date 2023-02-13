@@ -68,5 +68,7 @@ public class CreateOrderNoAuthAndWithIngredientsTest {
         assertTrue(isOrderCreated);
         //Проверка что заказу присвоен номер
         assertNotNull(orderNumber);
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
     }
  }

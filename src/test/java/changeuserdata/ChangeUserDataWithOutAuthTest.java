@@ -40,7 +40,8 @@ public class ChangeUserDataWithOutAuthTest {
 
         assertFalse(isDataChanged);
         assertEquals(message, "You should be authorised");
-
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
 
         }
     }
