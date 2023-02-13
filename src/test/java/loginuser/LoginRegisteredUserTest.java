@@ -44,5 +44,7 @@ public class LoginRegisteredUserTest {
                 .path("accessToken");
         String clearToken = token.replace("Bearer ", "");
         assertFalse(clearToken.isEmpty());
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
     }
 }

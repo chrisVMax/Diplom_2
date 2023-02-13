@@ -51,5 +51,7 @@ public class CreateOrderWithAuthNoIngredientsTest {
                 .extract()
                 .path("success");
         assertFalse(isOrderNotCreated);
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
      }
  }

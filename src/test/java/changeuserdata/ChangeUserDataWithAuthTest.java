@@ -53,7 +53,8 @@ public class ChangeUserDataWithAuthTest {
         assertTrue(isDataChanged);
         assertNotEquals(user.getName(), name);
         assertNotEquals(user.getEmail(), email);
-
+        //удаление пользователя
+        UserClient.deleteUser(accessToken);
         }
     }
 
